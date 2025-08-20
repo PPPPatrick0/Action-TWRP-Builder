@@ -1,4 +1,4 @@
-## Automated TWRP compilation based on Github Action
+## Automated TWRP compilation based on Github Action for AstellKern SP3000
 
 ## Advertising
 
